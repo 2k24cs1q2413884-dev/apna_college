@@ -1,2 +1,2 @@
 # apna_college
-this is my first repoitory
+this is my first repository
